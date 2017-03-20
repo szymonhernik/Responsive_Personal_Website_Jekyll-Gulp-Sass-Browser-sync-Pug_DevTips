@@ -6,8 +6,6 @@ var cp          = require('child_process');
 var pug          = require('gulp-pug');
 
 
-
-
 var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
@@ -79,6 +77,7 @@ gulp.task('pug', function(){
  */
 gulp.task('watch', function () {
     gulp.watch('assets/css/**', ['sass']);
+    gulp.watch('assets/js/**', ['jekyll-rebuild']);
     gulp.watch(['*.html', '_layouts/*.html', '_includes/*'], ['jekyll-rebuild']);
     gulp.watch('_pugfiles/*.pug', ['pug']);
 });
