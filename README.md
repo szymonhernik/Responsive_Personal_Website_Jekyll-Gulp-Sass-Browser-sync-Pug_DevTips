@@ -1,7 +1,7 @@
-jekyll-gulp-sass-browser-sync
+Personal website with html-css-js-jekyll-gulp-sass-browser-sync-pug
 =============================
 
-A project made by me following DevTip course on YT (https://www.youtube.com/playlist?list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A) using HTML, CSS, JS, Jekyll, GulpJS, SASS, AutoPrefixer, BrowserSync and Pug (old Jade) basing on photoshop file.
+A project made by me following DevTip course on YouTube (https://www.youtube.com/playlist?list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A) using HTML, CSS, JS, Jekyll, GulpJS, SASS, AutoPrefixer, BrowserSync and Pug (old Jade) basing on Photoshop file.
 
 
 
