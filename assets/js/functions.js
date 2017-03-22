@@ -2,7 +2,7 @@ $(function(){
   mentoringBubbleClick();
   setInterval(function(){articleTada()}, 4000);
   designBGStuff();
-  smoothScroll(320);
+  smoothScroll(300);
   mobileNav();
 });
 
