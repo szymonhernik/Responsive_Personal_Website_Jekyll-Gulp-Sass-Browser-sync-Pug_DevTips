@@ -14,21 +14,21 @@ A project made by me following DevTip course on YouTube (https://www.youtube.com
 
 
 ## This is how this site looks like
-![Screenshot1](screenshots/1.png?raw=true "Screenshot1")
+![Screenshot1](/screenshots/1.png?raw=true "Screenshot1")
 </br>
-![Screenshot2](screenshots/2.png?raw=true "Screenshot2")
+![Screenshot2](/screenshots/2.png?raw=true =250x)
 </br>
-![Screenshot3](screenshots/3.png?raw=true "Screenshot3")
+![Screenshot3](/screenshots/3.png?raw=true "Screenshot3")
 </br>
-![Screenshot4](screenshots/4.png?raw=true "Screenshot4")
+![Screenshot4](/screenshots/4.png?raw=true "Screenshot4")
 </br>
-![Screenshot5](screenshots/5.png?raw=true "Screenshot5")
+![Screenshot5](/screenshots/5.png?raw=true "Screenshot5")
 </br>
-![Screenshot6](screenshots/6.png?raw=true "Screenshot6")
+![Screenshot6](/screenshots/6.png?raw=true "Screenshot6")
 </br>
-![Screenshot7](screenshots/7.png?raw=true "Screenshot7")
+![Screenshot7](/screenshots/7.png?raw=true "Screenshot7")
 </br>
-![Screenshot8](screenshots/8.png?raw=true "Screenshot8")
+![Screenshot8](/screenshots/8.png?raw=true "Screenshot8")
 </br>
-![Screenshot9](screenshots/9.png?raw=true "Screenshot9")
+![Screenshot9](/screenshots/9.png?raw=true "Screenshot9")
 </br>
