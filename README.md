@@ -16,7 +16,7 @@ A project made by me following DevTip course on YouTube (https://www.youtube.com
 ## This is how this site looks like
 ![Screenshot1](/screenshots/1.png?raw=true "Screenshot1")
 </br>
-![Screenshot2](/screenshots/2.png?raw=true =250x)
+![Screenshot2](/screenshots/2.png?raw=true )
 </br>
 ![Screenshot3](/screenshots/3.png?raw=true "Screenshot3")
 </br>
@@ -33,4 +33,4 @@ A project made by me following DevTip course on YouTube (https://www.youtube.com
 ![Screenshot9](/screenshots/9.png?raw=true "Screenshot9")
 </br>
 
-<img src="https://github.com/szymonhernik/Responsive_Personal_Website_Jekyll-Gulp-Sass-Browser-sync-Pug_DevTips/blob/master/screenshots/2.png" alt="Screenshot" width="48"/>
+<img src="https://github.com/szymonhernik/Responsive_Personal_Website_Jekyll-Gulp-Sass-Browser-sync-Pug_DevTips/blob/master/screenshots/2.png" alt="Screenshot" width="140"/>
