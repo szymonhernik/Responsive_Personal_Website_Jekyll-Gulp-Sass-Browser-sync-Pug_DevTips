@@ -25,7 +25,7 @@ A project made by me following DevTip course on YouTube (https://www.youtube.com
 </br>
 ![Screenshot6](/screenshots/6.png?raw=true "Screenshot6")
 </br>
-<img src="https://github.com/szymonhernik/Responsive_Personal_Website_Jekyll-Gulp-Sass-Browser-sync-Pug_DevTips/blob/master/screenshots/7.png" alt="Screenshot" width="300"/>
-<img src="https://github.com/szymonhernik/Responsive_Personal_Website_Jekyll-Gulp-Sass-Browser-sync-Pug_DevTips/blob/master/screenshots/8.png" alt="Screenshot" width="300"/>
-<img src="https://github.com/szymonhernik/Responsive_Personal_Website_Jekyll-Gulp-Sass-Browser-sync-Pug_DevTips/blob/master/screenshots/9.png" alt="Screenshot" width="300"/>
+<img src="https://github.com/szymonhernik/Responsive_Personal_Website_Jekyll-Gulp-Sass-Browser-sync-Pug_DevTips/blob/master/screenshots/7.png" alt="Screenshot" width="270"/>
+<img src="https://github.com/szymonhernik/Responsive_Personal_Website_Jekyll-Gulp-Sass-Browser-sync-Pug_DevTips/blob/master/screenshots/8.png" alt="Screenshot" width="270"/>
+<img src="https://github.com/szymonhernik/Responsive_Personal_Website_Jekyll-Gulp-Sass-Browser-sync-Pug_DevTips/blob/master/screenshots/9.png" alt="Screenshot" width="270"/>
 </br>
