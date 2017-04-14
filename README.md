@@ -33,5 +33,3 @@ A project made by me following DevTip course on YouTube (https://www.youtube.com
 </br>
 ![Screenshot9](screenshots/9.png?raw=true "Screenshot9")
 </br>
-
-<img src="https://github.com/szymonhernik/Responsive_Personal_Website_Jekyll-Gulp-Sass-Browser-sync-Pug_DevTips/blob/master/screenshots/1.png" alt="alt text" width="50px" height="100px">
