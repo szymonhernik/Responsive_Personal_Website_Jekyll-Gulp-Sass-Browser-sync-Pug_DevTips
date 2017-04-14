@@ -14,7 +14,6 @@ A project made by me following DevTip course on YouTube (https://www.youtube.com
 
 
 ## This is how this site looks like
-</br>
 ![Screenshot1](screenshots/1.png?raw=true "Screenshot1")
 </br>
 ![Screenshot2](screenshots/2.png?raw=true "Screenshot2")
