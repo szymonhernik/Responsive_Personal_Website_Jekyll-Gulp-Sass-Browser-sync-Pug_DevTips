@@ -33,4 +33,4 @@ A project made by me following DevTip course on YouTube (https://www.youtube.com
 ![Screenshot9](/screenshots/9.png?raw=true "Screenshot9")
 </br>
 
-<img src="https://github.com/szymonhernik/Responsive_Personal_Website_Jekyll-Gulp-Sass-Browser-sync-Pug_DevTips/blob/master/screenshots/2.png" alt="Screenshot" style="width: 30%; height: 30%;"/>
+<img src="https://github.com/szymonhernik/Responsive_Personal_Website_Jekyll-Gulp-Sass-Browser-sync-Pug_DevTips/blob/master/screenshots/2.png" alt="Screenshot" width="48"/>
